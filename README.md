@@ -8,6 +8,13 @@ warrant a full blog post.
 
 ---
 
+### Categories
+
+* [CSS](#css)
+
+---
+- [Responsive grid with repeat + minmax](css/responsive-grid-with-minmax.md)
+
 ## About
 
 I shamelessly stole this idea from
