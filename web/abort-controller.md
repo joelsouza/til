@@ -10,8 +10,9 @@ You can create a new `AbortController` object using the `AbortController()` cons
 
 <script>
   let controller;
+```
 
-
+```javascript
   const downloadBtn = document.getElementById('#download');
   const abortBtn = document.getElementById('#abort');
 
