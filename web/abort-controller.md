@@ -7,12 +7,10 @@ You can create a new `AbortController` object using the `AbortController()` cons
 ```html
 <button id="download" data-file="path/to/the-file.mp4">download</button>
 <button id="cancel">cancel</button>
-
-<script>
-  let controller;
 ```
 
 ```javascript
+  let controller;
   const downloadBtn = document.getElementById('#download');
   const abortBtn = document.getElementById('#abort');
 
@@ -35,5 +33,4 @@ You can create a new `AbortController` object using the `AbortController()` cons
         console.log('Download error: ' + e.message);
       });
   }
-<script>
 ```
