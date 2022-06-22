@@ -10,7 +10,13 @@ warrant a full blog post.
 
 ## Web APIs
 
-- [AbortController](web/abort-controller.md)
+- [Abort requests with AbortController](web/abort-controller.md)
+
+## Linux and CLI
+
+- [Re-run with !!](linux-and-cli/bang-bang.md)
+- [Commands Reverse Search](linux-and-cli/reverse-search.md)
+- [Signals explained](linux-and-cli/signals.md)
 
 ### About
 
@@ -19,7 +25,7 @@ I shamelessly stole this idea from
 
 ### Other TIL Collections
 
-* [Today I Learned by Hashrocket](https://til.hashrocket.com)
-* [jbranchaud/til](https://github.com/jbranchaud/til)
-* [jwworth/til](https://github.com/jwworth/til)
-* [thoughtbot/til](https://github.com/thoughtbot/til)
+- [Today I Learned by Hashrocket](https://til.hashrocket.com)
+- [jbranchaud/til](https://github.com/jbranchaud/til)
+- [jwworth/til](https://github.com/jwworth/til)
+- [thoughtbot/til](https://github.com/thoughtbot/til)
