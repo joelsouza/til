@@ -12,6 +12,10 @@ warrant a full blog post.
 
 - [Abort requests with AbortController](web/abort-controller.md)
 
+## Javascript
+
+- [Rest vs Spread detailed](javascript/triple-dots.md)
+
 ## Linux and CLI
 
 - [Re-run with !!](linux-and-cli/bang-bang.md)
