@@ -21,6 +21,7 @@ warrant a full blog post.
 - [Re-run with !!](linux-and-cli/bang-bang.md)
 - [Commands Reverse Search](linux-and-cli/reverse-search.md)
 - [Signals explained](linux-and-cli/signals.md)
+- [Wildcards & Replacements](linux-and-cli/wildcards-replacements.md)
 
 ### About
 
