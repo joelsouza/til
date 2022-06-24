@@ -16,6 +16,10 @@ warrant a full blog post.
 
 - [Rest vs Spread detailed](javascript/triple-dots.md)
 
+## CSS
+
+- [Cascade Layers](css/cascade-layers.md)
+
 ## Linux and CLI
 
 - [Re-run with !!](linux-and-cli/bang-bang.md)
