@@ -1,6 +1,6 @@
 # Output Streams: Stdout and Stderr are different places
 
-To redirect just `stdout` we use `1>` and we use `>2` if we want to redirect just errors.
+To redirect just `stdout` we use `1>` and we use `2>` if we want to redirect just errors.
 
 ```bash
 ls -lsah 1> ls.txt
