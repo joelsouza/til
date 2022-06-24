@@ -22,6 +22,7 @@ warrant a full blog post.
 - [Commands Reverse Search](linux-and-cli/reverse-search.md)
 - [Signals explained](linux-and-cli/signals.md)
 - [Wildcards & Replacements](linux-and-cli/wildcards-replacements.md)
+- [Separate output streams](linux-and-cli/output-streams.md)
 
 ### About
 
