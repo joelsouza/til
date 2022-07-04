@@ -11,6 +11,7 @@ warrant a full blog post.
 ## Web APIs
 
 - [Abort requests with AbortController](web/abort-controller.md)
+- [Wake Lock API - Lock the screen when an application needs to keep running](web/wake-lock.md)
 
 ## Javascript
 
