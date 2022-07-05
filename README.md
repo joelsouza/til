@@ -20,6 +20,7 @@ warrant a full blog post.
 ## CSS
 
 - [Cascade Layers](css/cascade-layers.md)
+- [Color Scheme](css/color-scheme.md)
 
 ## Linux and CLI
 
