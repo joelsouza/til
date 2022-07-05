@@ -1,12 +1,7 @@
-# TIL
+# Today I Learned / Learn in Public
+Or: Everything I know as a Software Developer Without a Degree.
 
-> Today I Learned
-
-A collection of concise write-ups on small things I learn (or read how to use correctly) day to day across a
-variety of languages and technologies. These are things that don't really
-warrant a full blog post.
-
----
+A collection of concise write-ups on small things I learn (or read how to use correctly) day to day across a variety of languages and technologies.
 
 ## Web APIs
 
