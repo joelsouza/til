@@ -11,6 +11,7 @@ A collection of concise write-ups on small things I learn (or read how to use co
 ## Javascript
 
 - [Rest vs Spread detailed](javascript/triple-dots.md)
+- [`0` is Falsy](javascript/zero-is-falsy.md)
 
 ## CSS
 
