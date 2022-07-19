@@ -26,6 +26,10 @@ A collection of concise write-ups on small things I learn (or read how to use co
 - [Wildcards & Replacements](linux-and-cli/wildcards-replacements.md)
 - [Separate output streams](linux-and-cli/output-streams.md)
 
+## Random ones
+
+- [Overwhelm: The Survival Guide](random/overwhelm-survival-guide.md)
+
 ## pt-BR Essays
 
 - [Quatro coisas para parar de esperar](essays/4-coisas-parar-de-esperar.md)
