@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I learn (or read how to use co
 
 - [Cascade Layers](css/cascade-layers.md)
 - [Color Scheme](css/color-scheme.md)
+- [Width by “ch” unit](css/max-width-with-ch.md)
 
 ## Linux and CLI
 
