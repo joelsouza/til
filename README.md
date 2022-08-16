@@ -27,9 +27,10 @@ A collection of concise write-ups on small things I learn (or read how to use co
 - [Wildcards & Replacements](linux-and-cli/wildcards-replacements.md)
 - [Separate output streams](linux-and-cli/output-streams.md)
 
-## Random ones
+## General
 
-- [Overwhelm: The Survival Guide](random/overwhelm-survival-guide.md)
+- [Overwhelm: The Survival Guide](general/overwhelm-survival-guide.md)
+- [Apple Silicon vs Docker images](general/apple-silicon-docker-images.md)
 
 ## pt-BR Essays
 
