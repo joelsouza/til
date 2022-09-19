@@ -31,6 +31,7 @@ A collection of concise write-ups on small things I learn (or read how to use co
 
 - [Overwhelm: The Survival Guide](general/overwhelm-survival-guide.md)
 - [Apple Silicon vs Docker images](general/apple-silicon-docker-images.md)
+- [Safer git push --force](general/git-push-force-with-lease.md)
 
 ## pt-BR Essays
 
