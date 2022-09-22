@@ -12,6 +12,7 @@ A collection of concise write-ups on small things I learn (or read how to use co
 
 - [Rest vs Spread detailed](javascript/triple-dots.md)
 - [`0` is Falsy](javascript/zero-is-falsy.md)
+- [When use Map over Object](javascript/when-map-over-object.md)
 
 ## CSS
 
